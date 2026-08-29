@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Zakaria 
 
-<!--
-**ZakariaDj/ZakariaDj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring SOC Analyst | Blue Team | Security Operations
 
-Here are some ideas to get you started:
+I'm building practical cybersecurity experience through hands-on
+security investigations, labs, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Focus
+
+- Security Operations
+- Network Traffic Analysis
+- Log Analysis
+- Incident Investigation
+- Threat Detection
+- Linux & Windows Security
+
+## 🧰 Tools & Technologies
+
+- Wireshark
+- Linux
+- Git & GitHub
+- Networking fundamentals
+
+## 🔎 Practical Investigations
+
+I'm currently documenting hands-on investigations from:
+
+- Blue Team Labs Online
+- CyberDefenders
+- TryHackMe
+- Personal Security Labs
+
+## 📚 Currently Learning
+
+- SOC Analysis
+- Network Security
+- Security Monitoring
+- Incident Investigation
+
+## 📂 Portfolio
+
+More investigations, labs, and security projects are being documented
+and added regularly.
+
+---
+
+### Connect
+
+- LinkedIn: [Your LinkedIn]
