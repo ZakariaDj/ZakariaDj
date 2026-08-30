@@ -5,7 +5,7 @@
 I'm building practical cybersecurity experience through hands-on
 security investigations, labs, and continuous learning.
 
-## 🛡️ Focus
+## Focus
 
 - Security Operations
 - Network Traffic Analysis
@@ -14,14 +14,14 @@ security investigations, labs, and continuous learning.
 - Threat Detection
 - Linux & Windows Security
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - Wireshark
 - Linux
 - Git & GitHub
 - Networking fundamentals
 
-## 🔎 Practical Investigations
+## Practical Investigations
 
 I'm currently documenting hands-on investigations from:
 
@@ -30,14 +30,14 @@ I'm currently documenting hands-on investigations from:
 - TryHackMe
 - Personal Security Labs
 
-## 📚 Currently Learning
+## Currently Learning
 
 - SOC Analysis
 - Network Security
 - Security Monitoring
 - Incident Investigation
 
-## 📂 Portfolio
+## Portfolio
 
 More investigations, labs, and security projects are being documented
 and added regularly.
@@ -46,4 +46,4 @@ and added regularly.
 
 ### Connect
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: www.linkedin.com/in/djafrizakaria
