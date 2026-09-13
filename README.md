@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring SOC Analyst | Blue Team | Defensive Cybersecurity</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/djafrizakaria">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="YOUR_PORTFOLIO_URL">
