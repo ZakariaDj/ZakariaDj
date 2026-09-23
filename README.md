@@ -27,7 +27,9 @@ I learn by doing: working through investigations on **HackTheBox, TryHackMe, Cyb
 
 ## Projects & Investigations
 
-Security investigations and write-ups will be added here as they are completed and documented.
+| Investigation | Platform | Focus Area | Write-up |
+|---|---|---|---|
+| Malware Compromise (Dridex) | BTLO | Network Analysis | [Write-up](https://github.com/ZakariaDj/soc-investigations/blob/main/btlo/malware_compromise/README.md) |
 
 ## Home Labs
 
@@ -53,6 +55,7 @@ Home lab environments will be added here as they are built and documented.
   <img src="https://img.shields.io/badge/Windows-0067B8?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
   <img src="https://img.shields.io/badge/Nmap-1F4E79?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/SIEM-285943?style=flat-square" alt="SIEM">
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
@@ -76,7 +79,6 @@ Each investigation I publish follows this process and is documented with a clear
 - SIEM fundamentals & alert correlation
 - Network and endpoint analysis
 - Detection engineering fundamentals
-- German language
 
 ---
 
@@ -85,9 +87,6 @@ Each investigation I publish follows this process and is documented with a clear
 **Completed**
 - TCM Security — Linux 100: Fundamentals
 - IBM — Introduction to Cybersecurity
-
-**In Progress**
-- Fortinet Certified Fundamentals in Cybersecurity (FCF)
 
 **Target**
 - CompTIA Security+
